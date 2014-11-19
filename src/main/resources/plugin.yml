@@ -1,0 +1,13 @@
+main: com.carlgo11.lockdown.Main
+name: Lockdown
+version: 0.1
+author: carlgo11
+commands:
+
+  motd:
+    description: Set a new MOTD
+    usage: /<command> set (default/whitelist)
+
+  lockdown:
+    description: Lockdown the server
+    usage: /<command>

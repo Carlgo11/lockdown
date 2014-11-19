@@ -1,0 +1,6 @@
+mysql:
+  url:
+  username: lockdown
+  password: asdasd
+  database: lockdown
+  table: motd
